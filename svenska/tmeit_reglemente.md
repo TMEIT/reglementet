@@ -2,41 +2,41 @@
 ### Upprättat 2008-12-08
 ### Senast ändrat 2016-06-13
 
-## 1. Allmänt
+1. ##Allmänt
 
-### 1.1 Namn
+1. Namn
 Nämndens namn är TraditionsMEsterIT och förkortas TMEIT.
 
-### 1.2 Lydnad
+2. Lydnad
 TMEIT lyder under stadgan för Sektionen för Informations- och Nanoteknik vid Tekniska Högskolans Studentkår (THS), nedan kallad sektionen.
 
 
-### 1.3 Ändamål
+3. Ändamål
 TMEIT är varken mer eller mindre än ett klubbmästeri och har som syfte att främja studentikos kultur för medlemmar i sektionen.
 
 
-### 1.4 Verksamhet
+4. Verksamhet
 TMEIT skall driva sektionens pub, anordna fester för sina egna medlemmar, sektionens medlemmar samt medlemmar i andra klubbmästerier anslutna till Klubbmästarrådet (KMR). Dock ej nödvändigtvis samtidigt eller på samma plats.
 TMEITs verksamhet skall följa styrdokumentet för verksamhetsmål.
 
 
-### 1.5 Verksamhetsår
+5. Verksamhetsår
 TMEITs verksamhetsår löper från 1 januari till och med 31 december.
 
 
-### 1.6 Struktur
+6. Struktur
 TMEITs beslutande organ är:
 - Örådet
 - Mästarrådet
 - Marskalkskollegiet
 
 
-### 1.7 Tillkännagivande av beslut
+7. Tillkännagivande av beslut
 Samtliga protokoll från öråd och mästarråd skall publiceras på TMEITs hemsida, senast fem dagar efter justering.
 Publicering skall endast ske av uppgifter som inte är konfidentiella eller behandlar praos upphöjelse till marskalk. Därtill skall ej heller kontonummer publiceras.
 
 
-## 2. Medlemmar
+2. Medlemmar
 Medlemskap
 Medlemskap i TMEIT är öppet för sektionens alla medlemmar. Undantag kan göras om personen tidigare har orsakat TMEITs eller sektionens varumärke, medlemmar eller egendom skada och sedan dess inte visat tecken på förbättrat beteende. Beslut om nekande av ansökan om medlemskap fattas av mästarrådet.
 
