@@ -14,7 +14,9 @@ TMEIT lyder under stadgan för Sektionen för Informations- och Nanoteknik vid T
 TMEIT är varken mer eller mindre än ett klubbmästeri och har som syfte att främja studentikos kultur för medlemmar i sektionen.
 
 ### 1.4 Verksamhet
-TMEIT skall driva sektionens pub, anordna fester för sina egna medlemmar, sektionens medlemmar samt medlemmar i andra klubbmästerier anslutna till Klubbmästarrådet (KMR). Dock ej nödvändigtvis samtidigt eller på samma plats.
+TMEIT skall driva sektionens pub, anordna fester för sina egna medlemmar, sektionens medlemmar samt medlemmar i andra klubbmästerier anslutna till KlubbMästarrådet (KMR).  
+Dock ej nödvändigtvis samtidigt eller på samma plats.
+
 TMEITs verksamhet skall följa styrdokumentet för verksamhetsmål.
 
 
@@ -24,30 +26,34 @@ TMEITs verksamhetsår löper från 1 januari till och med 31 december.
 
 ### 1.6 Struktur
 TMEITs beslutande organ är:  
-- Örådet
-- Mästarrådet
-- Marskalkskollegiet
+- Örådet  
+- Mästarrådet  
+- Marskalkskollegiet  
 
 
 ### 1.7 Tillkännagivande av beslut
-Samtliga protokoll från öråd och mästarråd skall publiceras på TMEITs hemsida, senast fem dagar efter justering.
-Publicering skall endast ske av uppgifter som inte är konfidentiella eller behandlar praos upphöjelse till marskalk. Därtill skall ej heller kontonummer publiceras.
+Samtliga protokoll från öråd och Mästarråd skall publiceras på TMEITs hemsida, senast fem dagar efter justering.
+
+Publicering skall endast ske av uppgifter som inte är konfidentiella eller behandlar Praos upphöjelse till Marskalk.  
+Därtill skall ej heller kontonummer publiceras.
 
 
 ## 2. Medlemmar
 
 ### 2.1 Medlemskap
-Medlemskap i TMEIT är öppet för sektionens alla medlemmar. Undantag kan göras om personen tidigare har orsakat TMEITs eller sektionens varumärke, medlemmar eller egendom skada och sedan dess inte visat tecken på förbättrat beteende. Beslut om nekande av ansökan om medlemskap fattas av mästarrådet.
+Medlemskap i TMEIT är öppet för sektionens alla medlemmar. Undantag kan göras om personen tidigare har orsakat TMEITs eller sektionens varumärke, medlemmar eller egendom skada och sedan dess inte visat tecken på förbättrat beteende.  
+Beslut om nekande av ansökan om medlemskap fattas av Mästarrådet.
 
 
 ### 2.1.1 Ansökan om medlemskap
-Ansökan om medlemskap görs genom att kontakta någon av mästarna. Efter att kandidaten har lämnat de uppgifter som krävs för TMEITs medlemsregister skall denne placeras som arbetskraft vid första TMEIT-evenemang som passar både kandidaten och TMEIT. Därefter betraktas kandidaten som prao i TMEIT.
+Ansökan om medlemskap görs genom att kontakta någon av Mästarna. Efter att kandidaten har lämnat de uppgifter som krävs för TMEITs medlemsregister skall denne placeras som arbetskraft vid första TMEIT-evenemang som passar både kandidaten och TMEIT.  
+Därefter betraktas kandidaten som Prao i TMEIT.
 
 
 ### 2.2 Rättigheter
 Samtliga TMEITs medlemmar äger rätt:  
 **att** närvara med yttranderätt på TMEITs öråd.  
-**att** närvara på TMEITs mästarråd.  
+**att** närvara på TMEITs Mästarråd.  
 **att** tillgå TMEITs kommunikationskanaler.
 
 Samtliga TMEITs aktiva medlemmar äger rätt:  
@@ -56,40 +62,40 @@ Samtliga TMEITs aktiva medlemmar äger rätt:
 
 Samtliga TMEITs fullvärdiga medlemmar äger rätt:  
 **att** representera TMEIT på evenemang.  
-**att** närvara med yttrande- och rösträtt på TMEITs marskalkskollegium.  
-**att** kandidera till mästare.  
-**att** sola sig i glansen från praos avund och beundran.
+**att** närvara med yttrande- och rösträtt på TMEITs Marskalkskollegium.  
+**att** kandidera till Mästare.  
+**att** sola sig i glansen från Praos avund och beundran.
 
 Samtliga TMEITs hedersmedlemmar äger rätt:  
 **att** representera TMEIT på evenemang.  
 **att** närvara med yttranderätt på TMEITs öråd.  
 **att** närvara med yttrande- och rösträtt på TMEITs öråd om denne är medlem i sektionen.  
-**att** närvara med yttranderätt på TMEITs marskalkskollegium.  
-**att** närvara med yttrande- och rösträtt på TMEITs marskalkskollegium om denne är medlem i sektionen.  
+**att** närvara med yttranderätt på TMEITs Marskalkskollegium.  
+**att** närvara med yttrande- och rösträtt på TMEITs Marskalkskollegium om denne är medlem i sektionen.  
 **att** vara gamla och vresiga.
 
 ### 2.3 Skyldigheter
-Samtliga TMEITs medlemmar har som skyldighet:
-**att** rätta sig efter örådets, mästarrådets och marskalkskollegiets beslut.
+Samtliga TMEITs medlemmar har som skyldighet:  
+**att** rätta sig efter Örådets, Mästarrådets och Marskalkskollegiets beslut.
 
 ### 2.4 Fullvärdig medlem, Marskalk
 #### 2.4.1 Benämning
-TMEITs fullvärdiga medlemmar benämns marskalkar.
+TMEITs fullvärdiga medlemmar benämns Marskalkar.
 
 #### 2.4.2 Aktivitetskrav
-En Marskalk skall aktiv arbeta på minst ¾ av de arbetstillfällen Marskalkens arbetslag blivit tilldelade. Marskalken skall snarast besvara kallelser från Mästarna och Arbetslagsledare. Arbetskravet gäller från den termin som mästarna anser lämpligast. Detta beslut kan överklagas till örådet.
+En Marskalk skall aktiv arbeta på minst ¾ av de arbetstillfällen Marskalkens arbetslag blivit tilldelade. Marskalken skall snarast besvara kallelser från Mästarna och Arbetslagsledare. Arbetskravet gäller från den termin som Mästarna anser lämpligast. Detta beslut kan överklagas till örådet.
 
-Marskalkar skall delta och representera TMEIT på minst ett externt event per verksamhetshalvår. Med externt event menas marskalkssittning, utlandsresa, mästerskap eller annat event som beslutas av marskalkskollegiet.
+Marskalkar skall delta och representera TMEIT på minst ett externt event per verksamhetshalvår. Med externt event menas Marskalkssittning, utlandsresa, mästerskap eller annat event som beslutas av Marskalkskollegiet.
 
 Marskalkar som ej uppfyller aktivitetskraven kan beviljas dispens från Örådet.
 
-#### 2.4.3 Upphöjelse till marskalk
+#### 2.4.3 Upphöjelse till Marskalk
 Mästarna nominerar de Prao som de anser vara lämpliga för upphöjelse till Marskalkar. Nominerade Prao skall behandlas på nästkommande Marskalkskollegium.
 
 De kriterier som skall vara uppfyllda är att Prao skall ha:  
-- Arbetat på tre evenemang varav minst en sittning och minst en pub.
-- Varit med på minst två marskalkssittningar och visat förståelse för och följer de rutiner och kutym som är förknippade med dessa. En (1) av sittningarna kan ersättas med ett annat evenemang där Prao har representerat TMEIT. Vilka evenemang som är giltiga ersättare beslutas av Marskalkskollegiet.
-- Visat arbetsvilja, duglighet i TMEITs verksamhet, samt prov på social förmåga.
+- Arbetat på tre evenemang varav minst en sittning och minst en pub.  
+- Varit med på minst två Marskalkssittningar och visat förståelse för och följer de rutiner och kutym som är förknippade med dessa. En (1) av sittningarna kan ersättas med ett annat evenemang där Prao har representerat TMEIT. Vilka evenemang som är giltiga ersättare beslutas av Marskalkskollegiet.  
+- Visat arbetsvilja, duglighet i TMEITs verksamhet, samt prov på social förmåga.  
 - Uppfyllt samtliga punkter i Praos checklista, vilken finns för alla TMEITs aktiva medlemmar att ta del av.
 
 ### 2.5 Hedersmedlem, Vraq
@@ -100,10 +106,11 @@ TMEITs hedersmedlemmar benämns Vraq.
 Vraq har inga förpliktelser att arbeta på TMEITs evenemang.
 
 #### 2.5.3 Nedsänkning till Vraq
-Medlem som har varit aktiv marskalkt under totalt två år har möjlighet att nedsänkas till Vraq.  
+Medlem som har varit aktiv Marskalkt under totalt två år har möjlighet att nedsänkas till Vraq.  
 Vid extraordinära fall kan undantag ges av Mästarna, vilket skall godkännas av Örådet.
 
-Ansökan om att nedsänkas till Vraq görs genom att kontakta Mästarna som skall tillstyrka ansökan under förutsättning att kandidaten uppfyller de krav som reglementet ställer. I annat fall avslås ansökan.
+Ansökan om att nedsänkas till Vraq görs genom att kontakta Mästarna som skall tillstyrka ansökan under förutsättning att kandidaten uppfyller de krav som reglementet ställer.  
+I annat fall avslås ansökan.
 
 Medlem vars ansökan om att nedsänkas till Vraq har fått Mästarnas godkännande är att till vidare betrakta som Marskalk.
 
@@ -112,7 +119,7 @@ Mästarna ansvarar för att tillkännage nedsänkningen efter genomförd ceremon
 
 För att få räkna in den tid en Marskalk innehaft ett förtroendeuppdrag som medför arbetsbefrielse i ovan nämnda förutsättningar för nedsänkning måste denne ha fullgjort sitt uppdrag på ett tillfredsställande sätt.
 
-Mästare som sitter under mandatperiod har ej rätt att nedsänkas till Vraq.
+Mästare har ej rätt att under sin mandatperiod nedsänkas till Vraq.
 
 #### 2.5.4 Hedersutmärkelse
 Vraq som tillfört något extra till TMEIT kan tilldelas en hedersutmärkelse i form av en medalj.
@@ -140,7 +147,7 @@ För att en inaktiv Marskalk skall betraktas som aktiv måste denne arbeta på p
 ### 2.7 Uteslutning ur TMEIT
 Medlem som har orsakat TMEITs eller sektionens varumärke, medlemmar eller egendom skada eller har stått som inaktiv medlem i mer än ett år skall uteslutas.
 
-Beslut om uteslutande av medlem fattas av mästarrådet.
+Beslut om uteslutande av medlem fattas av Mästarrådet.
 
 ## 3. Styrelsen, Mästarna
 ### 3.1 Bemyndigande
@@ -156,7 +163,7 @@ Styrelsen består av: TraditionsMästaren, vice TraditionsMästaren, SkattMästa
 #### 3.4.1 Mästarna
 Mästarrådet skall i början av varje verksamhetshalvår granska vilka medlemmar som stått som inaktiva Marskalkar längre än vad som anges i §2.7 och därefter utesluta dessa ur TMEIT enligt §2.7.
 
-Mästarrådet skall fatta beslut om att temporärt betrakta en marskalk som icke fullvärdig medlem om denne har brutit mot de krav som ställs för att upphöjas till Marskalk under §2.4.3 eller Marskalks skyldigheter under §2.3.
+Mästarrådet skall fatta beslut om att temporärt betrakta en Marskalk som icke fullvärdig medlem om denne har brutit mot de krav som ställs för att upphöjas till Marskalk under §2.4.3 eller Marskalks skyldigheter under §2.3.
 
 #### 3.4.2 TraditionsMästaren
 TraditionsMästaren ansvarar, tillsammans med vice TraditionsMästaren, för driften av TMEITs verksamhet.
@@ -203,7 +210,8 @@ Endast Mästarna har rösträtt.
 #### 3.6.4 Kallelse
 TraditionsMästaren eller vice TraditionsMästaren kallar till ett Mästarråd. Kallelsen skall vara alla Mästarna tillhanda minst fem dagar innan Mästarrådet och skall innehålla en preliminär dagordning.
 
-TraditionsMästaren äger rätt att vid brådskande ärenden frångå ovanstående krav på eget ansvar.
+TraditionsMästaren äger rätt att vid brådskande ärenden frångå ovanstående krav.  
+Att så skett skall antecknas i protokollet, tillsammans med en motivering.
 
 #### 3.6.5 Mötesposter
 I början av Mästarrådet skall Mötesordförande samt Mötessekreterare väljas.
@@ -225,7 +233,8 @@ Nämndmötet benämns Örådet och är TMEITs högsta beslutande organ.
 Röstning genom ombud eller fullmakt är inte tillåtet.
 
 ### 4.4 Kallelse
-TraditionsMästaren ansvarar för att kallelse till örådet går ut till alla medlemmar via e-post minst fem dagar innan mötet.
+TraditionsMästaren ansvarar för att kallelse till örådet går ut till alla medlemmar via e-post minst fem dagar innan mötet.  
+Med kallelsen skall en preliminär dagordning bifogas.
 
 ### 4.5 Mötesposter
 I början av örådet skall Mötesordförande, Mötessekreterare samt två justerare och tillika rösträknare väljas.
@@ -238,7 +247,7 @@ Protokollet ska justeras av de utsedda justeringspersonerna senast tio dagar eft
 
 ## 5. Marskalkskollegium
 ### 5.1 Allmänt
-Varje verksamhetshalvår skall Marskalkskollegium hållas. Kollegiets syfte är att besluta vilka av TMEITs prao som skall upphöjas till Marskalk och vilka av de Vraq som nominerats för hedersutmärkelse skall tilldelas sådan.
+Varje verksamhetshalvår skall Marskalkskollegium hållas. Kollegiets syfte är att besluta vilka av TMEITs Prao som skall upphöjas till Marskalk och vilka av de Vraq som nominerats för hedersutmärkelse skall tilldelas sådan.
 
 ### 5.2 Beslutsmässighet
 Marskalkskollegiet är beslutsmässigt om minst tio (10) Marskalkar eller 1/2 av Marskalkarna är närvarande.
@@ -253,7 +262,8 @@ TraditionsMästaren ansvarar för att kallelse till Marskalkskollegiet skickas v
 De beslut som fattas är hemliga fram till och med efterföljande insup. Protokoll från Marskalkskollegium får inte publiceras på internet eller spridas på annat sätt.
 
 ### 5.6 Beslut
-Beslut att välja Prao för upphöjelse till Marskalk fattas med ⅔ majoritet. Detsamma gäller beslut om hedersutmärkelse.
+Beslut att välja Prao för upphöjelse till Marskalk fattas med 2/3 majoritet.  
+Detsamma gäller beslut om hedersutmärkelse.
 
 ### 5.7 Verkställande av beslut
 Inom en månad efter Marskalskollegium skall Mästarna anordna en ceremoniell internsittning som benämns Insup. Till Insup skall de Prao som blivit utvalda för upphöjelse till Marskalkar inbjudas tillsammans med TMEITs Marskalkar och Vraq. Under Insupen kan upphöjelsen från Prao till Marskalk ske.
@@ -263,15 +273,15 @@ De vid Öråd gällande villkoren för mötesposter samt tidsgränserna för sam
 
 ## 6. Styrdokument
 TMEITs styrdokument består av:  
-- Nämndens reglemente
-- Styrdokument för arbetslag
-- Styrdokument för ansvarsposter
+- Nämndens reglemente  
+- Styrdokument för arbetslag  
+- Styrdokument för ansvarsposter  
 - Praos checklista
 
 ### 6.1 Tolkning av reglementet
 Tolkning av reglementet sker i följande ordning:  
-- Örådet
-- Mästarrådet
+- Örådet  
+- Mästarrådet  
 Därefter gäller den av sektionens stadga definierade tolkningsordningen.
 
 ### 6.2 Ändring av reglementet
