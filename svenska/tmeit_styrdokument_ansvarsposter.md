@@ -7,7 +7,7 @@ Ansvarar gemensamt för TMEITs verksamhet
 
 Ansvarar för:  
 **att** det finns en marknadsföringsplan.  
-**att** det finns en verksamhetsplan.
+**att** det finns en verksamhetsplan.  
 **att** det finns en budget för verksamhetsåret.
 
 ## 2. TraditionsMästaren
@@ -20,7 +20,7 @@ Ansvarar för, tillsammans med vice TraditionsMästaren
 **att** representera TMEIT på fester och pubar inom KMR.  
 **att** Prao integreras i TMEIT.  
 
-Ansvarar för, tillsammans med SkattMästaren
+Ansvarar för, tillsammans med SkattMästaren  
 **att** TMEITs ekonomi sköts.  
 **att** kassaregistret är korrekt programmerat.
 
@@ -31,7 +31,7 @@ Godkänns på sektionsmötet efter val på Örådet.
 Ansvarar för, tillsammans med TraditionsMästaren  
 **att** representera TMEIT på SSCO:s Klubbmästarråd (KMR).  
 **att** representera TMEIT på THS Pubråd.  
-**att** representera TMEIT på fester och pubar inom KMR.
+**att** representera TMEIT på fester och pubar inom KMR.  
 **att** Prao integreras i TMEIT.
 
 ## 4. SkattMästaren
@@ -70,11 +70,11 @@ Ansvarar för
 Ansvarar för den mat som serveras på TMEITs evenemang. Väljs av Örådet.
 
 Ansvarar för  
-**att** det finns mat med budget planerad till alla regelbundna evenemang där mat skall finnas.
-**att** köket har den utrustningen som behövs.
-**att** det finns minst tre sorters frysmat.
-**att** aktuella prislistor finns till mat och snacks.
-**att** utgången mat kastas.
+**att** det finns mat med budget planerad till alla regelbundna evenemang där mat skall finnas.  
+**att** köket har den utrustningen som behövs.  
+**att** det finns minst tre sorters frysmat.  
+**att** aktuella prislistor finns till mat och snacks.  
+**att** utgången mat kastas.  
 **att** inventering av kökets inventarier sker i början av varje termin.
 
 ## 8. Junk\*
