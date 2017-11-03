@@ -100,26 +100,37 @@ De kriterier som skall vara uppfyllda är att Prao skall ha:
 
 ### 2.5 Hedersmedlem, Vraq
 #### 2.5.1 Benämning
-TMEITs hedersmedlemmar benämns Vraq.
+Vraq är hedersmedlemmar i TraditionsMästerit.  
+En person som nedsänks till Vraq har under sin tid som aktiv visat synnerligen god laganda och arbetsmoral, stöttat övriga medlemmar i TMEIT, och arbetat för TMEITs bästa.  
 
 #### 2.5.2 Arbetskrav
 Vraq har inga förpliktelser att arbeta på TMEITs evenemang.
 
 #### 2.5.3 Nedsänkning till Vraq
-Medlem som har varit aktiv Marskalkt under totalt två år har möjlighet att nedsänkas till Vraq.  
-Vid extraordinära fall kan undantag ges av Mästarna, vilket skall godkännas av Örådet.
+Medlem som uppfyller nedanstående krav har möjlighet att nedsänkas till Vraq.  
 
-Ansökan om att nedsänkas till Vraq görs genom att kontakta Mästarna som skall tillstyrka ansökan under förutsättning att kandidaten uppfyller de krav som reglementet ställer.  
-I annat fall avslås ansökan.
+För att nedsänkas till Vraq skall en medlem ha:  
+- Varit aktiv marskalk under minst fyra (4) terminer.  
+- Under var och en av dessa fyra terminer arbetat *minst* 60 timmar på event i TMEITs regi. Till event räknas pubar och sittningar, ej luncher.  
+- Deltagit på *minst* en städdag i Kistan 2.0 per två terminer.  
+- Visat prov på god laganda och arbetsmoral.  
 
-Medlem vars ansökan om att nedsänkas till Vraq har fått Mästarnas godkännande är att till vidare betrakta som Marskalk.
+I extraordinära fall kan Mästarrådet rekommendera Örådet att ge en medlem dispens från dessa krav.  
 
-Vraq ansvarar efter godkännande av Mästarrådet för att anordna en nedsänkningsceremoni.
-Mästarna ansvarar för att tillkännage nedsänkningen efter genomförd ceremoni.
+Mästare har ej rätt att nedsänkas till Vraq under den mandatperiod de valts för.  
 
-För att få räkna in den tid en Marskalk innehaft ett förtroendeuppdrag som medför arbetsbefrielse i ovan nämnda förutsättningar för nedsänkning måste denne ha fullgjort sitt uppdrag på ett tillfredsställande sätt.
+Ansökan om att nedsänkas till Vraq görs genom att kontakta Mästarna, som skall godkänna ansökan under förutsättning att kandidaten uppfyller de krav som reglementet ställer.  
+I annat fall avslås ansökan.  
 
-Mästare har ej rätt att under sin mandatperiod nedsänkas till Vraq.
+Medlem vars ansökan fått avslag av Mästarrådet har möjlighet att överklaga beslutet till Örådet förutsatt att kravet på att ha varit aktiv Marskalk i minst 4 terminer uppfyllts.  
+Örådet genomför alltid omröstning i sådan fråga genom votering med slutna sedlar.  
+
+Vraq ansvarar för att efter att ansökan godkänts av Mästarrådet anordna en nedsänkningsceremoni.  
+Mästarna ansvarar för att tillkännage nedsänkningen efter genomförd ceremoni.  
+
+Medlem vars ansökan om att nedsänkas till Vraq godkänts av Mästarna ska fram till nedsänkningsceremonins genomförande fortfarande betraktas som Marskalk.  
+
+För att få räkna sig som aktiv den tid en medlem innehaft förtroendeuppdrag som medför arbetsbefrielse måste denna ha fullgjort uppdragen på ett tillfredsställande sätt.  
 
 #### 2.5.4 Hedersutmärkelse
 Vraq som tillfört något extra till TMEIT kan tilldelas en hedersutmärkelse i form av en medalj.
@@ -266,7 +277,13 @@ Beslut att välja Prao för upphöjelse till Marskalk fattas med 2/3 majoritet.
 Detsamma gäller beslut om hedersutmärkelse.
 
 ### 5.7 Verkställande av beslut
-Inom en månad efter Marskalskollegium skall Mästarna anordna en ceremoniell internsittning som benämns Insup. Till Insup skall de Prao som blivit utvalda för upphöjelse till Marskalkar inbjudas tillsammans med TMEITs Marskalkar och Vraq. Under Insupen kan upphöjelsen från Prao till Marskalk ske.
+Inom en månad efter Marskalkskollegium skall Mästarna anordna en ceremoniell internsittning som benämns Insup. Till Insupen skall de prao som har blivit utvalda för upphöjelse till Marskalkar inbjudas, tillsammans med TMEITs Marskalkar och Vraq.  
+Under Insupen kan upphöjelse från Prao till Marskalk ske.  
+
+Prao som av giltig anledning missat sitt Insup kan bli upphöjd vid en av Mästarna arrangerat mindre, ceremoniellt, event där TMEITs Marskalkar och Vraq ej behöver närvara.  
+Vad som anses vara en giltig anledning beslutas av Mästarna.  
+
+Prao som upphöjs vid en sådan ceremoni har rätt att delta som Prao på nästkommande Insup, utan att dennes Marskalksstatus ändras.  
 
 ### 5.8 Mötesposter, protokoll och justering
 De vid Öråd gällande villkoren för mötesposter samt tidsgränserna för sammanställande och justering av protokoll gäller även Marskalkskollegium.
