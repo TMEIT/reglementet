@@ -1,4 +1,4 @@
-![](../logotmeit_hilong.png)
+![](../../logotmeit_hilong.png)
 
 # Reglemente för TraditionsMEsterIT
 #### Upprättat 2008-12-08

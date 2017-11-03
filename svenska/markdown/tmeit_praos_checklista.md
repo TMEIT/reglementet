@@ -1,3 +1,5 @@
+![](../../logotmeit_hilong.png)
+
 # Styrdokument: Prao's Checklista för TraditionsMEsterIT
 #### Upprättat 2014-02-13
 #### Senast ändrat 2014-09-13

@@ -1,3 +1,5 @@
+![](../../logotmeit_hilong.png)
+
 # Styrdokument för Arbetslag
 #### Upprättat 2008-08-09
 #### Senast ändrat 2008-08-09
