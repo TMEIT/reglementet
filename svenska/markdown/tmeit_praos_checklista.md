@@ -3,7 +3,7 @@
 #### Senast ändrat 2014-09-13
 
 - Pubrutiner (Hur en pub går till i stora drag)
-- Gasquerutinger (Hur en pub går till i stora drag)
+- Gasquerutinger (Hur en sittning går till i stora drag)
 - Förberedelser och öppningsrutiner för pub/sittning
 - Stängning och städrutiner efter pub/sittning
 - Genomgått och avklarat Köksutbildning
