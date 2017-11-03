@@ -1,3 +1,5 @@
+![](../logotmeit_hilong.png)
+
 # Reglemente för TraditionsMEsterIT
 #### Upprättat 2008-12-08
 #### Senast ändrat 2016-06-13
