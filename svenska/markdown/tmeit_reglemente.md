@@ -2,7 +2,7 @@
 
 # Reglemente för TraditionsMEsterIT
 #### Upprättat 2008-12-08
-#### Senast ändrat 2016-06-13
+#### Senast ändrat 2017-11-03
 
 ## 1. Allmänt
 
