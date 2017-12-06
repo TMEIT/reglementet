@@ -150,7 +150,7 @@ Inactive Prao shall be asked wether or not they want to remain a member of TMEIT
 #### 2.6.2 Inactive Marshal
 The Masters Council shall consider a Marshal inactive if the marshal after a finished term do not fulfill §2.4.2. Excemptions may be granted for Marshals that either are temporarily studying at another university, or have taken a formal break in their studies with the intention of resuming their engagement in TMEIT.
 
-Inactive Marshal is not considered a full member.
+An inactive Marshal is not considered a full member.
 
 #### 2.6.3 Reactivation of inactive member
 An inactive member that wishes to once again become active shall contact the Masters, who shall place the member in a team.
@@ -176,76 +176,76 @@ The board is made up of the: Master of Traditions (TraditionsMästar), vice Mast
 
 ### 3.4 Areas of responsibility
 #### 3.4.1 The Masters
-Mästarrådet skall i början av varje verksamhetshalvår granska vilka medlemmar som stått som inaktiva Marskalkar längre än vad som anges i §2.7 och därefter utesluta dessa ur TMEIT enligt §2.7.
+The Master's Council shall, at the start of each term, review which members have been inactive for longer than permitted by §2.7 and thereafter exclude them from TMEIT according to §2.7.
 
-Mästarrådet skall fatta beslut om att temporärt betrakta en Marskalk som icke fullvärdig medlem om denne har brutit mot de krav som ställs för att upphöjas till Marskalk under §2.4.3 eller Marskalks skyldigheter under §2.3.
+The Master's Council shall decide about temporarily consider a Marshal as not a full member if they have broken the requirements for elevation to Marshal in §2.4.3 or the obligations for Marshals in §2.3.
 
-#### 3.4.2 TraditionsMästaren
-TraditionsMästaren ansvarar, tillsammans med vice TraditionsMästaren, för driften av TMEITs verksamhet.
+#### 3.4.2 The Master of Traditions (TraditionsMästaren)
+The Master of Traditions is responsible for, together with the vice Master of Traditions, the operations of TMEIT.
 
-TraditionsMästaren ansvarar, tillsammans med SkattMästaren, för TMEITs ekonomi.
+The Master of Traditions is responsible for, together with the Master of the Treasury, the economy of TMEIT.
 
-#### 3.4.3 Vice TraditionsMästaren
-Vice TraditionsMästaren ansvarar, tillsammans med TraditionsMästaren, för driften av TMEITs verksamhet.
+#### 3.4.3 Vice Master of Traditions (vice TraditionsMästaren)
+The vice Master of Traditions is responsible for, together with the Master of Traditions, the operations of TMEIT.
 
-Vice TraditionsMästaren ansvarar för att sammanställa verksamhetsberättelsen för kalenderåret och andra verksamhetsrelaterade rapporter som sektionen eller myndigheter begär.
+The vice Master of Traditions is responsible for compile the annual report and other reports related to the operation of TMEIT that the chapter or government authorities demand.
 
-#### 3.4.4 SkattMästaren
-SkattMästaren ansvarar, tillsammans med TraditionsMästaren, för TMEITs ekonomi.
+#### 3.4.4 The Master of the Treasury (SkattMästaren)
+The Master of the Treasury is responsible for, together with the Master of Traditions, the economy of TMEIT.
 
-#### 3.4.5 PubMästaren
-PubMästaren ansvarar för inköp av grundutbudet av livsmedel samt drycker, alkoholhaltiga såsom alkoholfria, och sammanställning utav åtgång.
+#### 3.4.5 The Master of the Pub (PubMästaren)
+The Master of the Pub is responsible for purchasing the base range of food as well as drinks with and without alcohol, and compiling consumption stats.
 
-#### 3.4.6 SkriptMästaren
-SkriptMästaren ansvarar för att protokoll och andra viktiga dokument är justerade, inlämnade och publicerade i tid enligt TMEITs reglemente, samt antecknar och bevarar hemligheter.
+#### 3.4.6 The Master of Scrolls (SkriptMästaren)
+The Master of Scrolls is responsible for that meeting minutes and other important documents are adjusted, filed, and published in time according to TMEIT's rules and regulations, and record and keep secrets.
 
-### 3.5 Val av Mästare
-Mästarna för kommande verksamhetsår väljs under det sista planerade örådet innan sektionens valmöte.
+### 3.5 Electing Masters
+The Masters of the coming operational year is elected at the last planned committee meeting before the chapter's election meeting.
 
-Avgående Mästare skall nominera varsin kandidat till sin efterträdare.
+Retiring Masters shall nominate one candidate each as their successor.
 
-Samtliga röstberättigade medlemmar äger rätt att nominera kandidater till Mästarposterna.
+All members that have the right to vote also have the right to nominate candidates for the Master positions.
 
-De utav Mästarna nominerade kandidaterna skall vara väl insatta i verksamheten samt förväntningarna på dem i deras eventuella roll som Mästare.
+The by the Masters nominated candidates shall be well versed in the operations and the expectations on them in their possible role as Masters.
 
-Marskalk får enbart inneha en styrelsepost åt gången.
+A Marshal may only hold one Master position at a time.
 
-Sektionens sektionsmöte genomför godkännande av TraditionsMästaren och vice TradtionsMästaren, vilka TMEIT har valt på Örådet.
+The chapter meeting votes to approve the Master of Traditions as well as the vice Master of Traditions, which TMEIT have elected at the committee meeting.
 
-### 3.6 Styrelsemöte, Mästarråd
-#### 3.6.1 Allmänt
-Minst fyra gånger per verksamhetshalvår skall Mästarna sammanträda i ett styrelsemöte, vilket benämns Mästarråd.
+### 3.6 Board Meeting, Master's Council (Mästarråd)
+#### 3.6.1 General
+At least four times per term the Masters shall meet for a board meeting, called Master's Council or Mästarråd.
 
-#### 3.6.2 Beslutsmässighet
-Mästarrådet är beslutsmässigt om 3 av 5 Mästare är närvarande.
+#### 3.6.2 Quorate meetings
+The Master's Council is quorate if 3 out of 5 Masters are present.
 
-#### 3.6.3 Rösträtt
-Endast Mästarna har rösträtt.
+#### 3.6.3 Right to vote
+Only the Master's may vote.
 
-#### 3.6.4 Kallelse
-TraditionsMästaren eller vice TraditionsMästaren kallar till ett Mästarråd. Kallelsen skall vara alla Mästarna tillhanda minst fem dagar innan Mästarrådet och skall innehålla en preliminär dagordning.
+#### 3.6.4 Summons
+The Master of Traditions or the vice Master of Traditions is responsible for summoning the Master's Council. The summons shall reach all Masters at least 5 days before the Master's Council and shall contain a preliminary agenda.
 
-TraditionsMästaren äger rätt att vid brådskande ärenden frångå ovanstående krav.  
-Att så skett skall antecknas i protokollet, tillsammans med en motivering.
+The Master of Traditions have the right to, in urgent matters, waive the aforementioned requirements.
+That so has been done shall be noted in the meeting minutes, together with a motivation.
 
-#### 3.6.5 Mötesposter
-I början av Mästarrådet skall Mötesordförande samt Mötessekreterare väljas.
+#### 3.6.5 Meeting positions
+At the start of the Master's Council a meeting chairperson as well as a secretary shall be chosen.
 
-#### 3.6.6 Protokoll
-Protokollet skall vara sammanställt av Mötessekreteraren senast tio dagar efter Mästarrådet.
+#### 3.6.6 Meeting minutes
+The meeting minutes shall be compiled by the meeting secretary no later than ten (10) days after the Master's Council.
 
-#### 3.6.7 Justering
-Protokollet skall justeras av Mötesordföranden tillsammans med Mötessekreteraren senast tio dagar efter Mästarrådet.
+#### 3.6.7 Adjustment
+The meeting minutes shall be adjusted by the meeting chairperson together with the secretary no later than ten (10) days after the Master's Council.
 
-## 4. Nämndmöte, Öråd
-### 4.1 Allmänt
-Nämndmötet benämns Örådet och är TMEITs högsta beslutande organ.
+## 4. Committee meeting, (Öråd)
+### 4.1 General
+The committee meeting is called Örådet, and is the committee's highest governing body.
 
-### 4.2 Beslutsmässighet
-Örådet är beslutsmässigt om minst tolv (12) röstberättigade medlemmar eller 1/2 av alla röstberättigade medlemmar är närvarande.
+### 4.2 Quorate meetings
+The committee meeting is quorate if at least twelve (12) voting members or 1/2 of all voting members attend the meeting.
 
-### 4.3 Ombud
-Röstning genom ombud eller fullmakt är inte tillåtet.
+### 4.3 Delegate
+Voting through a delegate or a letter of appointment is not allowed.
 
 ### 4.4 Kallelse
 TraditionsMästaren ansvarar för att kallelse till örådet går ut till alla medlemmar via e-post minst fem dagar innan mötet.  
