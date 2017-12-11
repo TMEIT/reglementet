@@ -220,7 +220,7 @@ At least four times per term the Masters shall meet for a board meeting, called 
 The Master's Council is quorate if 3 out of 5 Masters are present.
 
 #### 3.6.3 Right to vote
-Only the Master's may vote.
+Only the Master's have the right to vote.
 
 #### 3.6.4 Summons
 The Master of Traditions or the vice Master of Traditions is responsible for summoning the Master's Council. The summons shall reach all Masters at least 5 days before the Master's Council and shall contain a preliminary agenda.
@@ -228,7 +228,7 @@ The Master of Traditions or the vice Master of Traditions is responsible for sum
 The Master of Traditions have the right to, in urgent matters, waive the aforementioned requirements.
 That so has been done shall be noted in the meeting minutes, together with a motivation.
 
-#### 3.6.5 Meeting positions
+#### 3.6.5 Meeting roles
 At the start of the Master's Council a meeting chairperson as well as a secretary shall be chosen.
 
 #### 3.6.6 Meeting minutes
@@ -237,7 +237,7 @@ The meeting minutes shall be compiled by the meeting secretary no later than ten
 #### 3.6.7 Adjustment
 The meeting minutes shall be adjusted by the meeting chairperson together with the secretary no later than ten (10) days after the Master's Council.
 
-## 4. Committee meeting, (Öråd)
+## 4. Committee meeting (Öråd)
 ### 4.1 General
 The committee meeting is called Örådet, and is the committee's highest governing body.
 
@@ -247,50 +247,52 @@ The committee meeting is quorate if at least twelve (12) voting members or 1/2 o
 ### 4.3 Delegate
 Voting through a delegate or a letter of appointment is not allowed.
 
-### 4.4 Kallelse
-TraditionsMästaren ansvarar för att kallelse till örådet går ut till alla medlemmar via e-post minst fem dagar innan mötet.  
-Med kallelsen skall en preliminär dagordning bifogas.
+### 4.4 Summons
+The Master of Traditions is responsible for sending out an invitation for the committee meeting by e-mail to all members, at least five days before the meeting.  
+The invitation shall also contain a preliminary agenda for the meeting.
 
-### 4.5 Mötesposter
-I början av örådet skall Mötesordförande, Mötessekreterare samt två justerare och tillika rösträknare väljas.
+### 4.5 Meeting roles
+At the start of each committee meeting a meeting chairperson, secretary, as well as two adjustors who are also vote counters shall be chosen.
 
-### 4.6 Protokoll
-Protokollet skall vara sammanställt av mötessekreteraren senast tio dagar efter örådet.
+### 4.6 Protocol
+The meeting protocol shall be compiled by the meeting secretary no later than ten days after the committee meeting.
 
-### 4.7 Justering
-Protokollet ska justeras av de utsedda justeringspersonerna senast tio dagar efter örådet.
+### 4.7 Adjustment
+The protocol shall be adjusted by the chosen adjustors no later than ten days after the committee meeting.
 
-## 5. Marskalkskollegium
-### 5.1 Allmänt
-Varje verksamhetshalvår skall Marskalkskollegium hållas. Kollegiets syfte är att besluta vilka av TMEITs Prao som skall upphöjas till Marskalk och vilka av de Vraq som nominerats för hedersutmärkelse skall tilldelas sådan.
+## 5. The Marshal's College (Marskalkskollegium)
+### 5.1 General
+Each term a Marshal's College shall be held. The purpose of the Marshal's College is to decide which Prao have fulfilled the requirements for elevation, and if any of the Vraq that have been nominated for the honorary award should be awarded it.
 
-### 5.2 Beslutsmässighet
-Marskalkskollegiet är beslutsmässigt om minst tio (10) Marskalkar eller 1/2 av Marskalkarna är närvarande.
+### 5.2 Quorate meetings
+The Marshal's College is quorate if at least ten (10) Marshal's or atleast 1/2 of TMEIT's Marshals attend the meeting.
 
-### 5.3 Ombud
-Röstning genom ombud eller fullmakt är inte tillåtet.
+### 5.3 Delegate
+Voting through a delegate or a letter of appointment is not allowed.
 
-### 5.4 Kallelse
-TraditionsMästaren ansvarar för att kallelse till Marskalkskollegiet skickas via e-post till alla medlemmar med närvarorätt minst fem dagar innan mötet. Med kallelsen skall en dagordning bifogas där det framkommer vilka Prao som är nominerade för upphöjelse till Marskalkar.
+### 5.4 Summons
+The Master of Traditions is responsible for sending out an invitation for the Marshal's College by e-mail to all members who have the right to attend at least five days before the meeting.  
+The invitation shall also contain an agenda, wherein there shall be a list of Prao which are nominated for elevation.
 
-### 5.5 Yppandeförbud
-De beslut som fattas är hemliga fram till och med efterföljande insup. Protokoll från Marskalkskollegium får inte publiceras på internet eller spridas på annat sätt.
+### 5.5 Disclosure embargo
+The decisions that are made at the College are secret up to the following elevation party. Protocols from the Marshal's College may not be published on the internet or be disclosed in any other way.
 
-### 5.6 Beslut
-Beslut att välja Prao för upphöjelse till Marskalk fattas med 2/3 majoritet.  
-Detsamma gäller beslut om hedersutmärkelse.
+### 5.6 Decisions
+Decisions about choosing Prao for elevation to Marshal is made by 2/3 majority.  
+The same applies to decisions about the honorary award.
 
-### 5.7 Verkställande av beslut
-Inom en månad efter Marskalkskollegium skall Mästarna anordna en ceremoniell internsittning som benämns Insup. Till Insupen skall de prao som har blivit utvalda för upphöjelse till Marskalkar inbjudas, tillsammans med TMEITs Marskalkar och Vraq.  
-Under Insupen kan upphöjelse från Prao till Marskalk ske.  
+### 5.7 Execution of decisions
+Within a month after the Marshal's College the Masters shall arrange a ceremonial internal party called Insup. To this party the Prao that have been chosen for elevation shall be invited, as well as TMEIT's Marshals and Vraq.  
+At this party the elevation from Prao to Marshal may take place.
 
-Prao som av giltig anledning missat sitt Insup kan bli upphöjd vid en av Mästarna arrangerat mindre, ceremoniellt, event där TMEITs Marskalkar och Vraq ej behöver närvara.  
-Vad som anses vara en giltig anledning beslutas av Mästarna.  
+Prao that have a valid reason for missing their assigned Insup may be elevated at a separate, smaller but still ceremonial, event arranged by the Masters.  
+The Marshals and Vraq do not need to attend such a ceremony.  
+What is considered a valid reason is decided by the Masters.
 
-Prao som upphöjs vid en sådan ceremoni har rätt att delta som Prao på nästkommande Insup, utan att dennes Marskalksstatus ändras.  
+Prao that are elevated at such a ceremony have the right to participate as Prao at the coming Insup, and they may participate wihout having their status as Marshal changed.
 
-### 5.8 Mötesposter, protokoll och justering
-De vid Öråd gällande villkoren för mötesposter samt tidsgränserna för sammanställande och justering av protokoll gäller även Marskalkskollegium.
+### 5.8 Meeting roles, protocols and adjustment
+The rules for meeting roles at the Committee Meetings as well as the time limits for compiling and adjusting the protocol also apply to the Marshal's College.
 
 ## 6. Styrdokument
 TMEITs styrdokument består av:  
