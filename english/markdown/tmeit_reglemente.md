@@ -7,10 +7,10 @@
 ## 1. General
 
 ### 1.1 Name
-The name of the committee is TraditionsMEsterIT and is abbrevated TMEIT.  
+The name of the committee is TraditionsMEsterIT, this name is abbreviated TMEIT.  
 
 ### 1.2 Abidance
-TMEIT abides by the statutes of the Chapter for Information- and Nanotechnology at Tekniska Högskolans Studentkår (THS), below called the chapter.  
+TMEIT abides by the statutes of the Chapter for Information- and Nanotechnology at Tekniska Högskolans Studentkår (THS), hereafter called the chapter.  
 
 ### 1.3 Purpose
 TMEIT is no more or less than a klubbmästeri, and the purpose of TMEIT is to promote student culture for members of the chapter.
@@ -21,38 +21,35 @@ Although not necessarily at the same time or place.
 
 The activities of TMEIT shall abide by the chapters by-laws.
 
-
 ### 1.5 Operational year
 The operational year of TMEIT runs from the 1st of January through the 31st of December.
 
-
 ### 1.6 Structure
 The different bodies of TMEIT are:  
-- The Committee meeting (Öråd)  
+- The committee meeting (Öråd)  
 - The Master's Council (Mästarrådet)  
 - The Marshals College (Marskalkskollegiet)  
 
-
 ### 1.7 Announcing decisions
-All protocols from Öråd and Master's Councils shall be published on TMEIT's website, no later than 5 days after adjustement.
+All protocols from committee meetings and Master's Councils shall be published on TMEIT's website, no later than 5 days after adjustement.
 
 Publication is only allowed of information that is not confidential or is about the elevation of Prao to Marshal.
 
 In addition no account information is to be published.
 
-
 ## 2. Members
 
 ### 2.1 Membership
-Membership in TMEIT is open to all members of the chapter. Exceptions can be made in case of a person previously having caused TMEIT's or the chapter's trademarks, members or property any harm and since then not shown any signs of improving their behaviour.  
+Membership in TMEIT is open to all members of the chapter.  
+Exceptions can be made in case of a person previously having caused TMEIT's or the chapter's trademarks, members or property any harm and since then not shown any signs of improving their behaviour.  
 The Master's Council decides if a person shall be denied membership.
 
 
 ### 2.1.1 Applying for membership
-Applying for membership is done by contacting any of the Masters. When the candidate have left the required information for TMEIT's membership register the candidate shall be assigned to work the next event arranged by TMEIT that suits both the candidate and TMEIT.  
+Applying for membership is done by contacting any of the Masters.  
+When the candidate have left the required information for TMEIT's membership register the candidate shall be assigned to work the next event arranged by TMEIT that suits both the candidate and TMEIT.  
 
 Thereafter the candidate is considered a Prao in TMEIT.
-
 
 ### 2.2 Rights
 All members of TMEIT have the right to:  
@@ -79,27 +76,27 @@ All honorary members of TMEIT have the right to:
 **to** be old and grumpy.
 
 ### 2.3 Obligations
-All members of TMEIT are obliged to:  
+All members of TMEIT are obliged:  
 **to** comply with decisions made by the Committee Council, the Master's Council, and the Marshals College.
 
 ### 2.4 Full member, Marshal
 #### 2.4.1 Designation
-Full members of TMEIT bear the title Marshal.
+Full members of TMEIT bear the title of Marshal.
 
 #### 2.4.2 Obligations
 A Marshal shall actively work at at least ¾ of the events that their team has been assigned. The Marshal shall respond to summons from the Masters and Team Leaders as soon as possible. The work obligations are in effect from the term that the Masters decide. This decision can be appealed to the Committee Council.
 
 Marshals shall partake in and represent TMEIT at at least one external event per term. Events that qualify as external events are Marshal gasques, events in other cities, student championships or other events that are approved by the Marshals College.
 
-Marshals that do not fulfill these obligations can be granted exemptions by the Committee Council.
+Marshals that do not fulfill these obligations can be granted exemptions by the committee council.
 
 #### 2.4.3 Elevation to Marshal
-The Masters nominate those PRao that they deem suited for elevation to Marshals. The Nominated Prao shall be discussed at the following Marshals College.
+The Masters nominate those Prao that they deem suited for elevation to Marshals. The Nominated Prao shall be discussed at the following Marshal's College.
 
 The criteria that Prao shall have fulfilled in order to be elevated are:  
 - Have worked at three events, of which at least one is a gasque and at least one is a pub.  
 - Have attended at least two Marshal gasques and have shown understanding for and follows the routines and customs that are associated with these. One (1) of these gasques can be replaced with another event where Prao have Represented TMEIT. The Marshals College approve events other than Marshal gasques that shall count towards this number.  
-- Have shown working spirit, capability as part of TMEIT, and proven themselves socially able.  
+- Have shown working spirit, capability as part of TMEIT, and proven themselves to be socially able.  
 - Have fulfilled all items in Prao's Checklist, which is open for reading for all of TMEIT's active members.  
 
 ### 2.5 Honorary member, Vraq
@@ -294,29 +291,30 @@ Prao that are elevated at such a ceremony have the right to participate as Prao 
 ### 5.8 Meeting roles, protocols and adjustment
 The rules for meeting roles at the Committee Meetings as well as the time limits for compiling and adjusting the protocol also apply to the Marshal's College.
 
-## 6. Styrdokument
-TMEITs styrdokument består av:  
-- Nämndens reglemente  
-- Styrdokument för arbetslag  
-- Styrdokument för ansvarsposter  
-- Praos checklista
+## 6. Regulatory documents
+TMEIT's regulatory documents are:  
+- The committee's regulations  
+- Regulations for work teams  
+- Regulations for committee roles  
+- Prao's checklist
 
-### 6.1 Tolkning av reglementet
-Tolkning av reglementet sker i följande ordning:  
-- Örådet  
-- Mästarrådet  
-Därefter gäller den av sektionens stadga definierade tolkningsordningen.
+### 6.1 Interpreting regulatory documents
+The regulations shall be interpreted in order by the following:  
+- The committee meeting  
+- The Master's council  
+Thereafter the interpretation scheme defined in the chapter's statutes applies.
 
-### 6.2 Ändring av reglementet
-För ändring av reglementet krävs det att minst 2/3 av de röstberättigade medlemmarna på Örådet röstar för ändringarna på två av varandra följande Öråd.
+### 6.2 Changing the regulations
+To make changes to the committee's regulations the changes must be approved by at least 2/3 of the voting members present at two consecutive committee meetings.
 
-### 6.3 Ändring av övriga styrdokument
-För att ändra TMEITs övriga styrdokument krävs beslut med enkel majoritet vid ett Öråd.
+### 6.3 Changing other regulatory documents
+To make changes to TMEIT's other regulatory documents a decision must be made with simple majority at a committee meeting.
 
-### 6.4 Tillgänglighet
-#### 6.4.1 Publicering
-Samtliga TMEITs gällande styrdokument skall finnas tillgängliga på TMEITs hemsida.
+### 6.4 Accessibility
+#### 6.4.1 Publication
+All of TMEIT's valid regulatory documents shall be available at TMEIT's website.
 
-#### 6.4.2 Språk
-TraditionsMEsterITs styrdokument skall finnas i sin helhet på både svenska och engelska.  
-Vid eventuella tolkningstvister skall tolkningsrätt ligga på det svenska dokumentet.
+#### 6.4.2 Language
+TraditionsMEsterIT's regulatory documents shall be available in full in both swedish and english.  
+
+English. In the event of any difference of interpretation the Swedish document holds precedence.
