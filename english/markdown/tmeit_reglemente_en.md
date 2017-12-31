@@ -275,7 +275,7 @@ The invitation shall also contain an agenda, wherein there shall be a list of Pr
 The decisions that are made at the College are secret up to the following elevation party. Protocols from the Marshal's College may not be published on the internet or be disclosed in any other way.
 
 ### 5.6 Decisions
-Decisions about choosing Prao for elevation to Marshal is made by 2/3 majority.  
+Decisions about choosing Prao for elevation to Marshal is made with 2/3 majority.  
 The same applies to decisions about the honorary award.
 
 ### 5.7 Execution of decisions
@@ -312,9 +312,9 @@ To make changes to TMEIT's other regulatory documents a decision must be made wi
 
 ### 6.4 Accessibility
 #### 6.4.1 Publication
-All of TMEIT's valid regulatory documents shall be available at TMEIT's website.
+All of TMEIT's valid regulatory documents shall be available on TMEIT's website.
 
 #### 6.4.2 Language
 TraditionsMEsterIT's regulatory documents shall be available in full in both swedish and english.  
 
-English. In the event of any difference of interpretation the Swedish document holds precedence.
+In the event of any difference of interpretation the Swedish document holds precedence.
