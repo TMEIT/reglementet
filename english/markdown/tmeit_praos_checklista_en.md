@@ -1,22 +1,22 @@
 ![](../../logotmeit_hilong.png)
 
-# Styrdokument: Prao's Checklista för TraditionsMEsterIT
-#### Upprättat 2014-02-13
-#### Senast ändrat 2014-09-13
+# Prao's Checklist for TraditionsMEsterIT
+#### Created 2014-02-13
+#### Last revision 2014-09-13
 
-- Pubrutiner (Hur en pub går till i stora drag)
-- Gasquerutinger (Hur en sittning går till i stora drag)
-- Förberedelser och öppningsrutiner för pub/sittning
-- Stängning och städrutiner efter pub/sittning
-- Genomgått och avklarat Köksutbildning
-- Glaskross och sophantering (Var vissa glasflaskor mystiskt tar vägen)
-- Kassan (Byte av kvittorullar, felslag m.m.)
-- Kvittorapportering
-- Inventering, påfyllning, frontning
-- Skapa stämmning i Kistan 2.0 (Dra igång musiken, få igång lamporna och få upp ett bildspel på skärmarna)
-- Grundläggande kunskap i drinkblandning och bartendering (Glas, is, sprit, likör, saft)
-- Kan teorin bakom mästeriets märkes-drycker
-- Alkoholtillståndet (Tider, gränser)
-- Alkohollagen
-- Kunskap om TMEITs struktur, organisation och verksamhet. Vraq, Mästare, Marskalk, Prao, Junk/Gourmet/Webb-posterna.
-- Har en bild på hemsidan och appen
+- Pub routines (How a pub works in general)
+- Gasque routines (How a gasque works in general)
+- Preparations and opening routines for pubs and gasques
+- Closing and cleaning routines after pubs and gasques
+- Participated in and passed the Kitchen training
+- Glass waste and garbage disposal (Where some bottles mysteriously disappear)
+- The cash register (Changing receipt rolls, errors etc.)
+- Reporting of purchases
+- Stocktaking, and filling and staging the fridges
+- How to handle the lightning and sound system in Kistan 2.0 (Start music, lights and slideshows)
+- Basic drink mixing and bartending (Glasses, ice, spirits, soda)
+- Knowledge about TMEIT's "patch drinks"
+- The serving permit (Times, limits)
+- Swedish alcohol law
+- Knowledge about TMEIT's structure, organisation and operations. (Masters, Marshals, Prao, Junk/Gourmet/Webb roles, Vraq)
+- Has a picture on the website and in the app
