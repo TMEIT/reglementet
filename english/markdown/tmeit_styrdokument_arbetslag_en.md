@@ -1,22 +1,37 @@
 ![](../../logotmeit_hilong.png)
 
-# Styrdokument för Arbetslag
-#### Upprättat 2008-08-09
-#### Senast ändrat 2008-08-09
+# Regulations for Teams
+#### Created 2008-08-09
+#### Last revision 2008-08-09
 
-##### 1. TMEITs Marskalkar och Prao är indelade i arbetslag.
-##### 2. Syftet med arbetslagen är att TMEITs medlemmar skall känna sig delaktiga och se sitt gemensamma ansvar för verksamheten.
-#### 3. Arbetslagen namnges efter de grekiska bokstäverna alfa, beta, gamma, delta och så vidare.
-#### 4. Arbetslagen sätts samman av Mästarna.
-#### 5. Varje arbetslag har en lagledare. Dess uppgift är att vara första kontaktperson för Mästarna, vara sammankallande till planeringsmöten samt ha ansvaret för att evenemang är välplanerade och har fullgod personalstyrka. Lagledaren utses av arbetslaget, men valet skall godkännas av Mästarna.
-#### 6. Med fullgod personalstyrka menas för gasque f(x) = (x/10) + 1, där x är antalet sittande och > 30. För övriga x och pub är f(x) = 4.
-#### 7. Arbetslagen turas om med att planera och genomföra evenemang.
-#### 8. Arbetslagen används vid regelbunden verksamhet, men ej vid speciella tillfällen som till exempel speciella företagsevent.
-#### 9. Det är möjligt för arbetslaget att byta evenemang med ett annat arbetslag förutsatt att planering genomförs i tid och Mästarna meddelas om bytet.
-#### 10. Planeringen skall göras på ett planeringsmöte dit hela arbetslaget, Gourmet\*, Junk\* och Mästarna skall vara kallade.
-#### 11. På planeringsmötet gäller vedertagen mötesformalia, vilket bland annat innebär att protokoll skall föras. Varje närvarande Marskalk har en röst.
-#### 12. Vanlig pub skall planeras minst en vecka i förväg, fredagspub minst två veckor och gasquer minst fyra veckor i förväg.
-#### 13. På planeringsmöte skall serverings- och festansvarig för evenemanget utses. Varje planeringsmöte skall börja med en utvärdering utav arbetslagets föregående genomförda evenemang. Mat skall föreslås och diskuteras med GourmetMarskalken. Till gasquer och fredagspubar skall tema bestämmas och dess budget diskuteras med SkattMästaren. Marknadsföringen av evenemanget görs av JunkMarskalken i samråd med arbetslaget.
-#### 14. Arbetslaget bestämmer självt vilka som skall arbeta på ett evenemang.
-#### 15. Det är möjligt att tillfälligt hoppa in i andra arbetslag vid behov.
-#### 16. Slutligen; Mästarna har alltid det yttersta ansvaret för TMEITs verksamhet, TraditionsMästaren och vice TraditionsMästaren för dess drift.
+1. TMEIT's Marshals and Prao are divided into teams.
+
+2. The purpose of the teams is to make TMEIT's members feel that they are involved in, and a joint responsibility for, TMEIT's operations.
+
+3. The teams are letters from the Greek alphabet. Alfa, beta, gamma, delta and so on.
+
+4. The Masters are responsible for putting together the teams.
+
+5. Each team has a team leader. They are the Master's contact in the team, convene team meetings, and are responsibile for making sure that events are properly planned and staffed. Team leaders are appointed by their team, but shall be approved by the Masters.
+
+6. A fully staffed event is: gasque f(x) = (x/10) + 1, where x is the number of guests and 30 < x < 100. For pub events and x < 30: f(x) = 4.
+
+7. The teams take turns planning and performing events.
+
+8. The teams are used for regularly scheduled events, but not for special occasions. For example business related events or pub crawls.
+
+9. It is possible for a team to trade events with another team, provided that planning is done in good time and the Masters are informed about the trade.
+
+10. Planning is done at a planning meeting to which the whole team, Gourmet\*, Junk\*, and the Masters are invited.
+
+11. At the planning meeting proper meeting formalities apply, meaning that a protocoll shall be written. Each participating Marshal has one vote.
+
+12. Ordinary pubs shall be planned at least one (1) week in advance, friday pubs at least two (2) weeks, and gasques at least four (4) weeks in advance.
+
+13. At the planning meeting, Marshals responsible for serving (serveringsansvarig) and safety (festansvarig) shall be appointed. Each planning meeting shall begin with an evaluation of the team's pervious event or events. Proposals for food at the events shall be discussed with the Gorumet\*. For gasques and friday pubs a theme shall be decided, additionally its budget shall be discussed with the Master of the Treasury. Promotion of the event is done by the Junk\* together with the team.
+
+14. The team decide among themselves who shall work at a given event.
+
+15. It is possible to temporarily work together with another team if the need arises.
+
+16. Lastly: The Masters always have the outermost responsibility for TMEIT's events, additionally the Master and vice Master of Traditions are responsible for TMEIT's operations.
