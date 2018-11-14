@@ -21,10 +21,8 @@ Dock ej nödvändigtvis samtidigt eller på samma plats.
 
 TMEITs verksamhet skall följa styrdokumentet för verksamhetsmål.
 
-
 ### 1.5 Verksamhetsår
 TMEITs verksamhetsår löper från 1 januari till och med 31 december.
-
 
 ### 1.6 Struktur
 TMEITs beslutande organ är:  
@@ -32,25 +30,26 @@ TMEITs beslutande organ är:
 - Mästarrådet  
 - Marskalkskollegiet  
 
-
 ### 1.7 Tillkännagivande av beslut
 Samtliga protokoll från öråd och Mästarråd skall publiceras på TMEITs hemsida, senast fem dagar efter justering.
 
-Publicering skall endast ske av uppgifter som inte är konfidentiella eller behandlar Praos upphöjelse till Marskalk.  
+Publicering skall endast ske av uppgifter som inte är konfidentiella eller behandlar Praos upphöjelse till Marskalk.
+
 Därtill skall ej heller kontonummer publiceras.
 
 
 ## 2. Medlemmar
 
 ### 2.1 Medlemskap
-Medlemskap i TMEIT är öppet för sektionens alla medlemmar. Undantag kan göras om personen tidigare har orsakat TMEITs eller sektionens varumärke, medlemmar eller egendom skada och sedan dess inte visat tecken på förbättrat beteende.  
+Medlemskap i TMEIT är öppet för sektionens alla medlemmar.  
+Undantag kan göras om personen tidigare har orsakat TMEITs eller sektionens varumärke, medlemmar eller egendom skada och sedan dess inte visat tecken på förbättrat beteende.  
 Beslut om nekande av ansökan om medlemskap fattas av Mästarrådet.
 
-
 ### 2.1.1 Ansökan om medlemskap
-Ansökan om medlemskap görs genom att kontakta någon av Mästarna. Efter att kandidaten har lämnat de uppgifter som krävs för TMEITs medlemsregister skall denne placeras som arbetskraft vid första TMEIT-evenemang som passar både kandidaten och TMEIT.  
-Därefter betraktas kandidaten som Prao i TMEIT.
+Ansökan om medlemskap görs genom att kontakta någon av Mästarna.  
+Efter att kandidaten har lämnat de uppgifter som krävs för TMEITs medlemsregister skall denne placeras som arbetskraft vid första TMEIT-evenemang som passar både kandidaten och TMEIT.  
 
+Därefter betraktas kandidaten som Prao i TMEIT.
 
 ### 2.2 Rättigheter
 Samtliga TMEITs medlemmar äger rätt:  
@@ -102,7 +101,7 @@ De kriterier som skall vara uppfyllda är att Prao skall ha:
 
 ### 2.5 Hedersmedlem, Vraq
 #### 2.5.1 Benämning
-Vraq är hedersmedlemmar i TraditionsMästerit.  
+Vraq är hedersmedlemmar i TraditionsMEsterIT.  
 En person som nedsänks till Vraq har under sin tid som aktiv visat synnerligen god laganda och arbetsmoral, stöttat övriga medlemmar i TMEIT, och arbetat för TMEITs bästa.  
 
 #### 2.5.2 Arbetskrav
@@ -143,7 +142,7 @@ Samtliga TMEITs Marskalkar och Vraq har rätt att nominera ett Vraq för hedersu
 #### 2.6.1 Inaktiv Prao
 Prao som under det senaste halvåret ej har deltagit i TMEITs verksamhet skall betraktas som inaktiv medlem.
 
-Inaktiv Prao skall tillfrågas om denne har som önskan att kvarstå som medlem i TMEIT, om ej så anses den tillfrågade ha lämnat TMEIT frivilligt.
+Inaktiv Prao skall tillfrågas om denne har som önskan att kvarstå som medlem i TMEIT. Om inte så anses den tillfrågade ha lämnat TMEIT frivilligt.
 
 #### 2.6.2 Inaktiv Marskalk
 Mästarrådet skall fatta beslut om Marskalks inaktivitet om denne efter avslutat verksamhetshalvår inte uppfyller §2.4.2. Undantag tillämpas för Marskalkar som antingen bedriver tillfälliga studier vid annat lärosäte eller har tagit studieuppehåll, med avsikt att återuppta sitt engagemang i TMEIT.
@@ -162,6 +161,7 @@ Medlem som har orsakat TMEITs eller sektionens varumärke, medlemmar eller egend
 
 Beslut om uteslutande av medlem fattas av Mästarrådet.
 
+
 ## 3. Styrelsen, Mästarna
 ### 3.1 Bemyndigande
 Styrelsen är TMEITs verkställande organ. Den är inför örådet ansvarig för TMEITs verksamhet och företräder TMEIT.
@@ -176,7 +176,7 @@ Styrelsen består av: TraditionsMästaren, vice TraditionsMästaren, SkattMästa
 #### 3.4.1 Mästarna
 Mästarrådet skall i början av varje verksamhetshalvår granska vilka medlemmar som stått som inaktiva Marskalkar längre än vad som anges i §2.7 och därefter utesluta dessa ur TMEIT enligt §2.7.
 
-Mästarrådet skall fatta beslut om att temporärt betrakta en Marskalk som icke fullvärdig medlem om denne har brutit mot de krav som ställs för att upphöjas till Marskalk under §2.4.3 eller Marskalks skyldigheter under §2.3.
+Mästarrådet skall fatta beslut om att temporärt betrakta en Marskalk som icke fullvärdig medlem om denne har brutit mot de krav som ställs för att upphöjas till Marskalk under §2.4.3, eller Marskalks skyldigheter under §2.3.
 
 #### 3.4.2 TraditionsMästaren
 TraditionsMästaren ansvarar, tillsammans med vice TraditionsMästaren, för driften av TMEITs verksamhet.
@@ -227,13 +227,13 @@ TraditionsMästaren äger rätt att vid brådskande ärenden frångå ovanståen
 Att så skett skall antecknas i protokollet, tillsammans med en motivering.
 
 #### 3.6.5 Mötesposter
-I början av Mästarrådet skall Mötesordförande samt Mötessekreterare väljas.
+I början av Mästarrådet skall en mötesordförande samt en mötessekreterare väljas.
 
 #### 3.6.6 Protokoll
-Protokollet skall vara sammanställt av Mötessekreteraren senast tio dagar efter Mästarrådet.
+Protokollet skall vara sammanställt av Mötessekreteraren senast tio (10) dagar efter Mästarrådet.
 
 #### 3.6.7 Justering
-Protokollet skall justeras av Mötesordföranden tillsammans med Mötessekreteraren senast tio dagar efter Mästarrådet.
+Protokollet skall justeras av Mötesordföranden tillsammans med Mötessekreteraren senast tio (10) dagar efter Mästarrådet.
 
 ## 4. Nämndmöte, Öråd
 ### 4.1 Allmänt
@@ -246,17 +246,17 @@ Nämndmötet benämns Örådet och är TMEITs högsta beslutande organ.
 Röstning genom ombud eller fullmakt är inte tillåtet.
 
 ### 4.4 Kallelse
-TraditionsMästaren ansvarar för att kallelse till örådet går ut till alla medlemmar via e-post minst fem dagar innan mötet.  
+TraditionsMästaren ansvarar för att kallelse till örådet går ut till alla medlemmar via e-post, minst fem dagar innan mötet.  
 Med kallelsen skall en preliminär dagordning bifogas.
 
 ### 4.5 Mötesposter
 I början av örådet skall Mötesordförande, Mötessekreterare samt två justerare och tillika rösträknare väljas.
 
 ### 4.6 Protokoll
-Protokollet skall vara sammanställt av mötessekreteraren senast tio dagar efter örådet.
+Protokollet skall vara sammanställt av mötessekreteraren senast tio (10)dagar efter örådet.
 
 ### 4.7 Justering
-Protokollet ska justeras av de utsedda justeringspersonerna senast tio dagar efter örådet.
+Protokollet ska justeras av de utsedda justeringspersonerna senast tio (10) dagar efter örådet.
 
 ## 5. Marskalkskollegium
 ### 5.1 Allmänt
@@ -269,10 +269,12 @@ Marskalkskollegiet är beslutsmässigt om minst tio (10) Marskalkar eller 1/2 av
 Röstning genom ombud eller fullmakt är inte tillåtet.
 
 ### 5.4 Kallelse
-TraditionsMästaren ansvarar för att kallelse till Marskalkskollegiet skickas via e-post till alla medlemmar med närvarorätt minst fem dagar innan mötet. Med kallelsen skall en dagordning bifogas där det framkommer vilka Prao som är nominerade för upphöjelse till Marskalkar.
+TraditionsMästaren ansvarar för att kallelse till Marskalkskollegiet skickas via e-post till alla medlemmar med närvarorätt minst fem dagar innan mötet.  
+Med kallelsen skall en dagordning bifogas där det framkommer vilka Prao som är nominerade för upphöjelse till Marskalkar.
 
 ### 5.5 Yppandeförbud
-De beslut som fattas är hemliga fram till och med efterföljande insup. Protokoll från Marskalkskollegium får inte publiceras på internet eller spridas på annat sätt.
+De beslut som fattas är hemliga fram till och med efterföljande insup.  
+Protokoll från Marskalkskollegium får inte publiceras på internet eller spridas på annat sätt.
 
 ### 5.6 Beslut
 Beslut att välja Prao för upphöjelse till Marskalk fattas med 2/3 majoritet.  
@@ -282,7 +284,8 @@ Detsamma gäller beslut om hedersutmärkelse.
 Inom en månad efter Marskalkskollegium skall Mästarna anordna en ceremoniell internsittning som benämns Insup. Till Insupen skall de prao som har blivit utvalda för upphöjelse till Marskalkar inbjudas, tillsammans med TMEITs Marskalkar och Vraq.  
 Under Insupen kan upphöjelse från Prao till Marskalk ske.  
 
-Prao som av giltig anledning missat sitt Insup kan bli upphöjd vid en av Mästarna arrangerat mindre, ceremoniellt, event där TMEITs Marskalkar och Vraq ej behöver närvara.  
+Prao som av giltig anledning missat sitt Insup kan bli upphöjd vid ett av Mästarna arrangerat mindre, ceremoniellt, event. 
+TMEITs Marskalkar och Vraq behöver ej närvara vid en sådan ceremoni.  
 Vad som anses vara en giltig anledning beslutas av Mästarna.  
 
 Prao som upphöjs vid en sådan ceremoni har rätt att delta som Prao på nästkommande Insup, utan att dennes Marskalksstatus ändras.  
@@ -315,4 +318,5 @@ Samtliga TMEITs gällande styrdokument skall finnas tillgängliga på TMEITs hem
 
 #### 6.4.2 Språk
 TraditionsMEsterITs styrdokument skall finnas i sin helhet på både svenska och engelska.  
+
 Vid eventuella tolkningstvister skall tolkningsrätt ligga på det svenska dokumentet.
