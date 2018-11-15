@@ -37,13 +37,13 @@ Publication is only allowed of information that is not confidential or is about 
 
 In addition no account information is to be published.
 
+
 ## 2. Members
 
 ### 2.1 Membership
 Membership in TMEIT is open to all members of the chapter.  
 Exceptions can be made in case of a person previously having caused TMEIT's or the chapter's trademarks, members or property any harm and since then not shown any signs of improving their behaviour.  
 The Master's Council decides if a person shall be denied membership.
-
 
 ### 2.1.1 Applying for membership
 Applying for membership is done by contacting any of the Masters.  
@@ -131,7 +131,7 @@ The Masters are responsible for announcing the submerging after conclusion of th
 
 A member whose application to be submerged to Vraq has been approved by the Masters is still considered to be a Marshal until the submerging ceremony.   
 
-To be allowed to count as active the time spent as an electee in a position that is exempt from the obligation to work at events hosted by TMEIT the obligations that are part of the aforementioned position must be fulfilled.  
+To be allowed to count as active the time spent as an electee in a position that is exempt from the obligation to work at events hosted by TMEIT, the obligations that are part of the aforementioned position must be fulfilled.  
 
 #### 2.5.4 Honorary award
 Vraq that have had a distinct positive impact on TMEIT may be awarded a honorary award in the form of a medal.  
@@ -142,7 +142,7 @@ All Marshals and Vraq of TMEIT have the right to nominate a Vraq for this award.
 #### 2.6.1 Inactive Prao
 Prao that during the previous term have not participated in TMEIT's activities is to be considered an inactive member.
 
-Inactive Prao shall be asked wether or not they want to remain a member of TMEIT, if not they are considered to have left TMEIT voluntarily.
+Inactive Prao shall be asked wether or not they want to remain a member of TMEIT. If not they are considered to have left TMEIT voluntarily.
 
 #### 2.6.2 Inactive Marshal
 The Masters Council shall consider a Marshal inactive if the marshal after a finished term do not fulfill §2.4.2. Excemptions may be granted for Marshals that either are temporarily studying at another university, or have taken a formal break in their studies with the intention of resuming their engagement in TMEIT.
@@ -161,26 +161,28 @@ A member that have caused TMEIT's or the chapter's trademarks, members or proper
 
 Decision about exclusion is made by the Masters Council.
 
+
 ## 3. The board, the Masters
+
 ### 3.1 Authorization
-The board is TMEIT's executive authority. It is responsible for TMEIT's activities and represent TMEIT.
+The board is TMEIT's executive authority. The board is responsible for TMEIT's operations and reports to the committee meeting, it also represents TMEIT towards other organisations.
 
 ### 3.2 Designation
 Board members are called Masters (Mästare).
 
 ### 3.3 Composition
-The board is made up of the: Master of Traditions (TraditionsMästar), vice Master of Traditions (vice TraditionsMästar), Master of the Treasury (SkattMästare), Master of the Pub (PubMästaren) and the Master of Scrolls (SkriptMästare).
+The board is made up of the: Master of Traditions (TraditionsMästaren), vice Master of Traditions (vice TraditionsMästaren), Master of the Treasury (SkattMästaren), Master of the Pub (PubMästaren) and the Master of Scriptures (SkriptMästaren).
 
 ### 3.4 Areas of responsibility
 #### 3.4.1 The Masters
 The Master's Council shall, at the start of each term, review which members have been inactive for longer than permitted by §2.7 and thereafter exclude them from TMEIT according to §2.7.
 
-The Master's Council shall decide about temporarily consider a Marshal as not a full member if they have broken the requirements for elevation to Marshal in §2.4.3 or the obligations for Marshals in §2.3.
+The Master's Council shall decide about temporarily consider a Marshal as not a full member if they have broken the requirements for elevation to Marshal in §2.4.3, or the obligations for Marshals in §2.3.
 
 #### 3.4.2 The Master of Traditions (TraditionsMästaren)
 The Master of Traditions is responsible for, together with the vice Master of Traditions, the operations of TMEIT.
 
-The Master of Traditions is responsible for, together with the Master of the Treasury, the economy of TMEIT.
+The Master of Traditions is responsible for, together with the Master of the Treasury, TMEIT's economy.
 
 #### 3.4.3 Vice Master of Traditions (vice TraditionsMästaren)
 The vice Master of Traditions is responsible for, together with the Master of Traditions, the operations of TMEIT.
@@ -188,13 +190,13 @@ The vice Master of Traditions is responsible for, together with the Master of Tr
 The vice Master of Traditions is responsible for compile the annual report and other reports related to the operation of TMEIT that the chapter or government authorities demand.
 
 #### 3.4.4 The Master of the Treasury (SkattMästaren)
-The Master of the Treasury is responsible for, together with the Master of Traditions, the economy of TMEIT.
+The Master of the Treasury is responsible for, together with the Master of Traditions, TMEIT's economy.
 
 #### 3.4.5 The Master of the Pub (PubMästaren)
 The Master of the Pub is responsible for purchasing the base range of food as well as drinks with and without alcohol, and compiling consumption stats.
 
-#### 3.4.6 The Master of Scrolls (SkriptMästaren)
-The Master of Scrolls is responsible for that meeting minutes and other important documents are adjusted, filed, and published in time according to TMEIT's rules and regulations, and record and keep secrets.
+#### 3.4.6 The Master of Scriptures (SkriptMästaren)
+The Master of Scriptures is responsible for that meeting minutes and other important documents are adjusted, filed, and published in time according to TMEIT's rules and regulations, and record and keep secrets.
 
 ### 3.5 Electing Masters
 The Masters of the coming operational year is elected at the last planned committee meeting before the chapter's election meeting.
@@ -205,7 +207,7 @@ All members that have the right to vote also have the right to nominate candidat
 
 The by the Masters nominated candidates shall be well versed in the operations and the expectations on them in their possible role as Masters.
 
-A Marshal may only hold one Master position at a time.
+A Marshal may only hold one Master role at a time.
 
 The chapter meeting votes to approve the Master of Traditions as well as the vice Master of Traditions, which TMEIT have elected at the committee meeting.
 
@@ -234,7 +236,9 @@ The meeting minutes shall be compiled by the meeting secretary no later than ten
 #### 3.6.7 Adjustment
 The meeting minutes shall be adjusted by the meeting chairperson together with the secretary no later than ten (10) days after the Master's Council.
 
+
 ## 4. Committee meeting (Öråd)
+
 ### 4.1 General
 The committee meeting is called Örådet, and is the committee's highest governing body.
 
@@ -252,12 +256,14 @@ The invitation shall also contain a preliminary agenda for the meeting.
 At the start of each committee meeting a meeting chairperson, secretary, as well as two adjustors who are also vote counters shall be chosen.
 
 ### 4.6 Protocol
-The meeting protocol shall be compiled by the meeting secretary no later than ten days after the committee meeting.
+The meeting protocol shall be compiled by the meeting secretary no later than ten (10) days after the committee meeting.
 
 ### 4.7 Adjustment
-The protocol shall be adjusted by the chosen adjustors no later than ten days after the committee meeting.
+The protocol shall be adjusted by the chosen adjustors no later than ten (10) days after the committee meeting.
+
 
 ## 5. The Marshal's College (Marskalkskollegium)
+
 ### 5.1 General
 Each term a Marshal's College shall be held. The purpose of the Marshal's College is to decide which Prao have fulfilled the requirements for elevation, and if any of the Vraq that have been nominated for the honorary award should be awarded it.
 
@@ -272,7 +278,8 @@ The Master of Traditions is responsible for sending out an invitation for the Ma
 The invitation shall also contain an agenda, wherein there shall be a list of Prao which are nominated for elevation.
 
 ### 5.5 Disclosure embargo
-The decisions that are made at the College are secret up to the following elevation party. Protocols from the Marshal's College may not be published on the internet or be disclosed in any other way.
+The decisions that are made at the College are secret up to the following elevation party.  
+Protocols from the Marshal's College may not be published on the internet or be disclosed in any other way.
 
 ### 5.6 Decisions
 Decisions about choosing Prao for elevation to Marshal is made with 2/3 majority.  
@@ -282,14 +289,15 @@ The same applies to decisions about the honorary award.
 Within a month after the Marshal's College the Masters shall arrange a ceremonial internal party called Insup. To this party the Prao that have been chosen for elevation shall be invited, as well as TMEIT's Marshals and Vraq.  
 At this party the elevation from Prao to Marshal may take place.
 
-Prao that have a valid reason for missing their assigned Insup may be elevated at a separate, smaller but still ceremonial, event arranged by the Masters.  
+Prao that have a valid reason for missing their assigned Insup may be elevated at a separate smaller, but still ceremonial, event arranged by the Masters.  
 The Marshals and Vraq do not need to attend such a ceremony.  
 What is considered a valid reason is decided by the Masters.
 
-Prao that are elevated at such a ceremony have the right to participate as Prao at the coming Insup, and they may participate wihout having their status as Marshal changed.
+Prao that are elevated at such a ceremony have the right to participate as Prao at the following Insup, and may participate wihout having their status as Marshal changed.
 
 ### 5.8 Meeting roles, protocols and adjustment
 The rules for meeting roles at the Committee Meetings as well as the time limits for compiling and adjusting the protocol also apply to the Marshal's College.
+
 
 ## 6. Regulatory documents
 TMEIT's regulatory documents are:  
