@@ -19,7 +19,7 @@ Prao skall ha kunskap om eller ha uppfyllt:
 - Kvittorapportering av inköp för event
 - Dagsavslut och Z-kvittorapportering efter stängning
 - Inventering, påfyllning, och frontning av bar och spritförråd
-- Skapa stämmning i Kistan 2.0 - musik, belysning, och bildspel
+- Skapa stämning i Kistan 2.0 - musik, belysning, och bildspel
 - Grundläggande kunskap i drinkblandning och bartendering
 - Kan recepten för TMEITs märkesdrinkar och -shots
 - Serveringstillståndet - Tider, gränser och begränsningar
