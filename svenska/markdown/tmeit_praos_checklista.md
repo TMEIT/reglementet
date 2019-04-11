@@ -2,7 +2,7 @@
 
 # Styrdokument: Prao's Checklista för TraditionsMEsterIT
 #### Upprättat 2014-02-13
-#### Senast ändrat 2014-09-13
+#### Senast ändrat 2019-04-11
 
 Prao skall uppfylla dessa krav som del av kraven för upphöjelse till Marskalk.  
 

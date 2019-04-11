@@ -2,7 +2,7 @@
 
 # Reglemente för TraditionsMEsterIT
 #### Upprättat 2008-12-08
-#### Senast ändrat 2019-XX-XX
+#### Senast ändrat 2019-04-11
 
 ## 1. Allmänt
 ### 1.1 Namn
