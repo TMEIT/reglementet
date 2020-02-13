@@ -1,7 +1,9 @@
 ![](../../logotmeit_hilong.png)
 
 # Styrdokument: Prao's Checklista för TraditionsMEsterIT
+
 #### Upprättat 2014-02-13
+
 #### Senast ändrat 2019-04-11
 
 - Pubrutiner - Hur en pub går till i stora drag
