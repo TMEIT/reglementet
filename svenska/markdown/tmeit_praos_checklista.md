@@ -4,11 +4,6 @@
 #### Upprättat 2014-02-13
 #### Senast ändrat 2019-04-11
 
-Prao skall uppfylla dessa krav som del av kraven för upphöjelse till Marskalk.  
-
-TraditionsMästaren och vice TraditionsMästaren ansvarar för att Prao integreras i TMEIT och uppfyller kraven. Till sin hjälp har de arbetslagsledarna. 
-
-Prao skall ha kunskap om eller ha uppfyllt:  
 - Pubrutiner - Hur en pub går till i stora drag
 - Gasquerutiner - Hur en sittning går till i stora drag
 - Förberedelser och öppningsrutiner för pub och sittning
