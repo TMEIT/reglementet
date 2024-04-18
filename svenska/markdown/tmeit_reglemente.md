@@ -422,6 +422,10 @@ Protokollet skall vara sammanställt av mötessekreteraren senast tio (10) dagar
 
 Protokollet ska justeras av de utsedda justeringspersonerna senast tio (10) dagar efter örådet.
 
+#### 5.1.8 Hattbärande
+
+Under mötet ska mötesordförande bära pirathatt.
+
 ### 5.2 Marskalkskollegium
 
 #### 5.2.1 Allmänt

@@ -422,6 +422,10 @@ The meeting protocol shall be compiled by the meeting secretary no later than te
 
 The protocol shall be adjusted by the chosen adjustors no later than ten (10) days after the committee meeting.
 
+#### 5.1.8 Wearing of the hat
+
+During the meeting the meeting chairman shall wear a pirate hat.
+
 ### 5.2 The Marshal's College (Marskalkskollegium)
 
 #### 5.2.1 General
