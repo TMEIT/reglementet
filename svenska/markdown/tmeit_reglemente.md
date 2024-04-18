@@ -504,7 +504,7 @@ Protokollet skall justeras av Mötesordföranden tillsammans med Mötessekretera
 
 ##### 5.3.8 Granskning av aktivitetskrav
 
-Mästarrådet skall i början av varje verksamhetshalvår granska vilka medlemmar som stått som inaktiva Marskalkar längre än vad som anges i §3.7 och därefter utesluta dessa ur TMEIT enligt §3.7.
+Mästarrådet skall i början av varje verksamhetshalvår granska vilka medlemmar som stått som inaktiva Marskalkar längre än vad som anges i §3.7 och därefter utesluta dessa ur TMEIT enligt §3.8.
 
 Mästarrådet skall fatta beslut om att temporärt betrakta en Marskalk som icke fullvärdig medlem om denne har brutit mot de krav som ställs för att upphöjas till Marskalk under §3.4.3, eller Marskalks skyldigheter under §3.3.
 

@@ -503,7 +503,7 @@ The meeting minutes shall be adjusted by the meeting chairperson together with t
 
 ##### 5.3.8 Scrutiny of obligations
 
-The board meeting shall at the start of each term audit which members have been inactive Marshals for a longer time than what is stated in §3.7 and thereafter dismiss them from TMEIT in accordance with §3.7.
+The board meeting shall at the start of each term audit which members have been inactive Marshals for a longer time than what is stated in §3.7 and thereafter dismiss them from TMEIT in accordance with §3.8.
 
 The board meeting shall decide to temporarily consider a Marshal as less than a full member if said Marshal has broken the requirements for being 
 
