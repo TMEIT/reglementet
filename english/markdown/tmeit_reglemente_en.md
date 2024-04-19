@@ -430,7 +430,7 @@ The protocol shall be adjusted by the chosen adjustors no later than ten (10) da
 
 #### 5.1.8 Wearing of the hat
 
-During the meeting the meeting chairman shall wear a pirate hat.
+During the meeting the chairman shall wear a pirate hat.
 
 ### 5.2 The Marshal's College (Marskalkskollegium)
 
