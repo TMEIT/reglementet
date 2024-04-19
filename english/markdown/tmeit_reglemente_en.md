@@ -152,6 +152,11 @@ The criteria that Prao shall have fulfilled in order to be elevated are:
 - Have shown working spirit, capability as part of TMEIT, and proven themselves to be socially able.  
 - Have fulfilled all items in Prao's Checklist, which is open for reading for all of TMEIT's active members.  
 
+#### 3.4.4 Additional obligations
+
+All marshals of TMEIT are obliged:\
+**to** attend Chapter Meetings, SM.
+
 ### 3.5 Honorary member, Vraq
 
 #### 3.5.1 Designation

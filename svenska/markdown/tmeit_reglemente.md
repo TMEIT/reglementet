@@ -152,6 +152,11 @@ De kriterier som skall vara uppfyllda är att Prao skall ha:
 - Visat arbetsvilja, duglighet i TMEITs verksamhet, samt prov på social förmåga.  
 - Uppfyllt samtliga punkter i Praos checklista, vilken finns för alla TMEITs aktiva medlemmar att ta del av.
 
+#### 3.4.4 Ytterliggare skyldigheter
+
+Samtliga TMEITs marskalker har som ytterliggare skyldighet:\
+**att** delta på sektionsmöten, SM.
+
 ### 3.5 Hedersmedlem, Vraq
 
 #### 3.5.1 Benämning
