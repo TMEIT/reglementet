@@ -265,8 +265,8 @@ Are responsible for:
 **that** an operational plan exists.  
 **that** there is a budget for the operational year.  
 **that** the work teams assigned events are listed on the website.  
-**that** coming KMR events are listed on the website.
-**that** that Masters that are present in Kistan 2.0 during a TMEIT-event with workercandy, have to eat workercandy at least once.
+**that** coming KMR events are listed on the website.\
+**that** Masters present in Kistan 2.0 during a TMEIT-event with workercandy, have to eat workercandy at least once.
 
 #### 4.1.5 The Master of Traditions (TraditionsMästaren)
 
