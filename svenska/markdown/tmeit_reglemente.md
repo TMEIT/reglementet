@@ -265,7 +265,7 @@ Ansvarar för:
 **att** det finns en verksamhetsplan.  
 **att** det finns en budget för verksamhetsåret.  
 **att** arbetslagens tilldelade event listas på hemsidan.  
-**att** kommande KMR-event listas på hemsidan.
+**att** kommande KMR-event listas på hemsidan.\
 **att** Mästare som befinner sig i Kistan 2.0 under TMEIT-event med arbetargodis måste äta av arbetargodiset vid minst ett tillfälle.
 
 
