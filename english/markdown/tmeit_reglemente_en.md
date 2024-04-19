@@ -4,7 +4,7 @@
 
 #### Created 2008-12-08
 
-#### Last revision 2019-04-11
+#### Last revision 2024-04-19
 
 ## 1. General
 
@@ -152,6 +152,11 @@ The criteria that Prao shall have fulfilled in order to be elevated are:
 - Have shown working spirit, capability as part of TMEIT, and proven themselves to be socially able.  
 - Have fulfilled all items in Prao's Checklist, which is open for reading for all of TMEIT's active members.  
 
+#### 3.4.4 Additional obligations
+
+All marshals of TMEIT are obliged:\
+**to** attend Chapter Meetings, SM.
+
 ### 3.5 Honorary member, Vraq
 
 #### 3.5.1 Designation
@@ -261,6 +266,7 @@ Are responsible for:
 **that** there is a budget for the operational year.  
 **that** the work teams assigned events are listed on the website.  
 **that** coming KMR events are listed on the website.
+**that** that Masters that are present in Kistan 2.0 during a TMEIT-event with workercandy, have to eat workercandy at least once.
 
 #### 4.1.5 The Master of Traditions (TraditionsMästaren)
 
@@ -422,6 +428,10 @@ The meeting protocol shall be compiled by the meeting secretary no later than te
 
 The protocol shall be adjusted by the chosen adjustors no later than ten (10) days after the committee meeting.
 
+#### 5.1.8 Wearing of the hat
+
+During the meeting the meeting chairman shall wear a pirate hat.
+
 ### 5.2 The Marshal's College (Marskalkskollegium)
 
 #### 5.2.1 General
@@ -503,7 +513,7 @@ The meeting minutes shall be adjusted by the meeting chairperson together with t
 
 ##### 5.3.8 Scrutiny of obligations
 
-The board meeting shall at the start of each term audit which members have been inactive Marshals for a longer time than what is stated in §3.7 and thereafter dismiss them from TMEIT in accordance with §3.7.
+The board meeting shall at the start of each term audit which members have been inactive Marshals for a longer time than what is stated in §3.7 and thereafter dismiss them from TMEIT in accordance with §3.8.
 
 The board meeting shall decide to temporarily consider a Marshal as less than a full member if said Marshal has broken the requirements for being 
 

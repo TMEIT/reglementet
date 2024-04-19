@@ -4,7 +4,7 @@
 
 #### Upprättat 2008-12-08
 
-#### Senast ändrat 2019-04-11
+#### Senast ändrat 2024-04-19
 
 ## 1. Allmänt
 
@@ -152,6 +152,11 @@ De kriterier som skall vara uppfyllda är att Prao skall ha:
 - Visat arbetsvilja, duglighet i TMEITs verksamhet, samt prov på social förmåga.  
 - Uppfyllt samtliga punkter i Praos checklista, vilken finns för alla TMEITs aktiva medlemmar att ta del av.
 
+#### 3.4.4 Ytterliggare skyldigheter
+
+Samtliga TMEITs marskalker har som ytterliggare skyldighet:\
+**att** delta på sektionsmöten, SM.
+
 ### 3.5 Hedersmedlem, Vraq
 
 #### 3.5.1 Benämning
@@ -261,6 +266,8 @@ Ansvarar för:
 **att** det finns en budget för verksamhetsåret.  
 **att** arbetslagens tilldelade event listas på hemsidan.  
 **att** kommande KMR-event listas på hemsidan.
+**att** Mästare som befinner sig i Kistan 2.0 under TMEIT-event med arbetargodis måste äta av arbetargodiset vid minst ett tillfälle.
+
 
 #### 4.1.5 TraditionsMästaren
 
@@ -422,6 +429,10 @@ Protokollet skall vara sammanställt av mötessekreteraren senast tio (10) dagar
 
 Protokollet ska justeras av de utsedda justeringspersonerna senast tio (10) dagar efter örådet.
 
+#### 5.1.8 Hattbärande
+
+Under mötet ska mötesordförande bära pirathatt.
+
 ### 5.2 Marskalkskollegium
 
 #### 5.2.1 Allmänt
@@ -504,7 +515,7 @@ Protokollet skall justeras av Mötesordföranden tillsammans med Mötessekretera
 
 ##### 5.3.8 Granskning av aktivitetskrav
 
-Mästarrådet skall i början av varje verksamhetshalvår granska vilka medlemmar som stått som inaktiva Marskalkar längre än vad som anges i §3.7 och därefter utesluta dessa ur TMEIT enligt §3.7.
+Mästarrådet skall i början av varje verksamhetshalvår granska vilka medlemmar som stått som inaktiva Marskalkar längre än vad som anges i §3.7 och därefter utesluta dessa ur TMEIT enligt §3.8.
 
 Mästarrådet skall fatta beslut om att temporärt betrakta en Marskalk som icke fullvärdig medlem om denne har brutit mot de krav som ställs för att upphöjas till Marskalk under §3.4.3, eller Marskalks skyldigheter under §3.3.
 
