@@ -349,7 +349,6 @@ Ansvarar för:
 **att** TMEITs grafiska profil hålls uppdaterad.  
 **att** designa och trycka upp affischer i god tid.  
 **att** designa och beställa tygmärken i god tid.  
-**att** marknadsföringsplanen blir utförd.  
 
 ### 4.2.3 Web\*
 
@@ -359,6 +358,13 @@ Ansvarar för:
 **att** TMEITs hemsida och maillistor fungerar.  
 **att** hemsidan har de funktioner som Mästarna och TMEIT behöver.  
 **att** samordna de av TMEITs medlemmar som är intresserade av att bidra till utvecklings- och underhållsarbetet.
+
+### 4.2.4 PR\*
+
+Ansvarar för att TMEITs marknadsplan blir utförd.\
+Ansvarar för:\
+**att** bilder och videor tas från alla TMEITs offentliga events samt läggs upp på TMEITs sociala medier och arkiveras.\
+**att** TMEITs event publiceras i tid.
 
 ### 4.3 Eventspecifika roller
 
