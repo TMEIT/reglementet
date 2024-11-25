@@ -347,8 +347,7 @@ Is responsible for TMEIT's printed media and patches.
 Is responsible for:  
 **that** TMEIT's graphical profile is kept up to date.  
 **that** posters are designed and printed in good time.  
-**that** patches are designed and ordered in good time.  
-**that** the marketing plan is executed.  
+**that** patches are designed and ordered in good time.   
 
 ### 4.2.3 Web\*
 
@@ -358,6 +357,13 @@ Ansvarar för:
 **att** TMEITs hemsida och maillistor fungerar.  
 **att** hemsidan har de funktioner som Mästarna och TMEIT behöver.  
 **att** samordna de av TMEITs medlemmar som är intresserade av att bidra till utvecklings- och underhållsarbetet.
+
+### 4.2.4 PR\*
+
+Is responsible for TMEITs marketing plan being executed.\
+Is responsible for:\
+**that** pictures and videos are taken during all of TMEITs public events and published on TMEITs  social media and archived.\
+**that** TMEITs events are announced on time.\
 
 ### 4.3 Event specific roles
 
