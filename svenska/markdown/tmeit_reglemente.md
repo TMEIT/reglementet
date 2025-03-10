@@ -373,6 +373,7 @@ Ansvarar för:\
 **att** internfester planeras och festanmäls i god tid.\
 **att** internfester utförs och styrs upp.
 
+### 4.2.5 Extern\*
 Ansvarar för att informera om externevent.\
 Ansvarar för:\
 **att** informera och hypa om kommande externevent.\
