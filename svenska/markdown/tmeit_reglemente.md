@@ -366,6 +366,19 @@ Ansvarar för:\
 **att** bilder och videor tas från alla TMEITs offentliga events samt läggs upp på TMEITs sociala medier och arkiveras.\
 **att** TMEITs event publiceras i tid.
 
+### 4.2.5 Intern\*
+
+Ansvarar för TMEITs internfester.\
+Ansvarar för:\
+**att** internfester planeras och festanmäls i god tid.
+**att** internfester utförs och styrs upp.
+
+### 4.2.6 Raid\*
+Ansvarar för att informera om externevent.\
+Ansvarar för:\
+**att** informera och hypa om kommande externevent.
+**att** presentera kommande externa event under Öråd.
+
 ### 4.3 Eventspecifika roller
 
 ### 4.3.1 Tillsättning och krav
@@ -549,7 +562,7 @@ Sektionens sektionsmöte genomför godkännande av TraditionsMästaren och vice 
 
 ### 6.3 Val av ansvarsposter
 
-Det står samtliga TMEITs aktiva medlemmar fritt att kandidera till Gourmet\*, Junk\*, och Webb\*-posterna.  
+Det står samtliga TMEITs aktiva medlemmar fritt att kandidera till Gourmet\*, Junk\*, Web\*, PR\*, Internal\*, och Raid\*-posterna.  
 En medlem får enbart inneha en ansvarspost åt gången.  
 
 ### 6.4 Entledigande

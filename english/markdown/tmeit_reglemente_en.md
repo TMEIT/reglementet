@@ -363,7 +363,21 @@ Ansvarar för:
 Is responsible for TMEITs marketing plan being executed.\
 Is responsible for:\
 **that** pictures and videos are taken during all of TMEITs public events and published on TMEITs  social media and archived.\
-**that** TMEITs events are announced on time.\
+**that** TMEITs events are announced on time.
+
+### 4.2.5 Intern\*
+
+Is responsible for TMEITs internal parties.\
+Is responsible for:\
+**that** internal parties are planned and festanmäld in good time.
+**that** internal parties are executed and managed.
+
+### 4.2.6 Raid\*
+
+Is responsible for informing about external events.\
+Is responsible for:\
+**that** coming external events are known and hyped.\
+**that** coming external events are presented during Öråd.
 
 ### 4.3 Event specific roles
 
@@ -549,7 +563,7 @@ The chapter's chapter meeting approve the Master of Traditions and Vice Master o
 
 ### 6.3 Electing other positions
 
-All active members of TMEIT may stand as candidates for the Gourmet\*, Junk\*, och Webb\* positions.  
+All active members of TMEIT may stand as candidates for the Gourmet\*, Junk\*, Web\*, PR\*, Internal\*, and Raid\* positions.  
 A member may only hold one aforementioned position at a time.
 
 ### 6.4 Dismissal
